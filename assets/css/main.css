@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #00ff59; /*secret page color?*/
+		background: #4c6171; /*secret page color?*/
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3248,15 +3248,15 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #cf5c36; /* orange */
-		}
-
-		.wrapper.style2-alt {
 			background-color: #45050c; /* maroon */
 		}
 
+		.wrapper.style2-alt {
+			background-color: #45050c; /* orange */
+		}
+
 		.wrapper.style3 {
-			background-color: #004D74; /* mantis */
+			background-color: #cf5c36; /* orange */
 		}
 
 		.wrapper.style3-alt {
