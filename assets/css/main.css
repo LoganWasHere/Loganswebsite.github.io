@@ -3240,11 +3240,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #EF476F; /* red */
+			background-color: #003554; /* red */
 		}
 
 		.wrapper.style1-alt {
-			background-color: #26547C; /* blue */
+			background-color: #006494; /* blue */
 		}
 
 		.wrapper.style2 {
@@ -3252,15 +3252,15 @@ input, select, textarea {
 		}
 
 		.wrapper.style2-alt {
-			background-color: #8B4E76; /* purple */
+			background-color: #00A6FB; /* purple */
 		}
 
 		.wrapper.style3 {
-			background-color: #83D483; /* mantis */
+			background-color: #004D74; /* mantis */
 		}
 
 		.wrapper.style3-alt {
-			background-color: #81E9CE; /* teal */
+			background-color: #03273C; /* teal */
 		}
 
 		.wrapper.fullscreen {
@@ -3524,7 +3524,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #FFD166; /* yellow */
+		background: #051923; /* yellow */
 		cursor: default;
 		height: 100vh;
 		left: 0;
