@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #4c6171; /*secret page color?*/
+		background: #312450;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3236,31 +3236,31 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #EF476F; /* red */
+			background-color: #261c3e;
 		}
 
 		.wrapper.style1 {
-			background-color: #4c6171; /* blue */
+			background-color: #5e42a6;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #f2f3f4; /* white */
+			background-color: #493382;
 		}
 
 		.wrapper.style2 {
-			background-color: #f2f3f4; /* maroon */
+			background-color: #5052b5;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #f2f3f4; /* maroon */
+			background-color: #3e4094;
 		}
 
 		.wrapper.style3 {
-			background-color: #4c6171; /* orange */
+			background-color: #b74e91;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #f2f3f4; /* teal */
+			background-color: #953d75;
 		}
 
 		.wrapper.fullscreen {
@@ -3370,7 +3370,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #004d73; /* Head color on alt page */
+		background-color: #5e42a6;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3524,7 +3524,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #425462; /* Sidebar color */
+		background: #312450;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3857,7 +3857,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #374753; /*edited this aswell*/
+							background-color: #b74e91;
 						}
 
 		}
