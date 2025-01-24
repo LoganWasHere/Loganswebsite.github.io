@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #FA7070; /*this*/
+		background: #312450;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1915,7 +1915,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #ffffff;
-			color: #312450 !important;
+			color: #ffffff !important;
 		}
 
 			input[type="submit"].primary:after,
@@ -2536,27 +2536,27 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #F08080;
+					color: #5e42a6;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #F08080;
+					color: #493382;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #F08080;
+					color: #5052b5;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #fef6f6;
+					color: #3e4094;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #fef6f6;
+					color: #b74e91;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #fef6f6;
+					color: #953d75;
 				}
 
 /* Image */
@@ -3236,31 +3236,31 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #f08080;
+			background-color: #261c3e;
 		}
 
 		.wrapper.style1 {
-			background-color: #f08080;
+			background-color: #5e42a6;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #f08080;
+			background-color: #493382;
 		}
 
 		.wrapper.style2 {
-			background-color: #f08080;
+			background-color: #5052b5;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #f08080;
+			background-color: #3e4094;
 		}
 
 		.wrapper.style3 {
-			background-color: #f08080;
+			background-color: #b74e91;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #f08080;
+			background-color: #953d75;
 		}
 
 		.wrapper.fullscreen {
@@ -3370,7 +3370,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #f08080;
+		background-color: #5e42a6;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3732,8 +3732,7 @@ input, select, textarea {
 				}
 
 		#sidebar nav a {
-			-moz-transition: 
-				0.2s ease;
+			-moz-transition: color 0.2s ease;
 			-webkit-transition: color 0.2s ease;
 			-ms-transition: color 0.2s ease;
 			transition: color 0.2s ease;
@@ -3858,7 +3857,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #f08080;
+							background-color: #b74e91;
 						}
 
 		}
