@@ -3370,7 +3370,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #fef6f6;
+		background-color: #f08080;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3732,7 +3732,8 @@ input, select, textarea {
 				}
 
 		#sidebar nav a {
-			-moz-transition: color 0.2s ease;
+			-moz-transition: 
+				0.2s ease;
 			-webkit-transition: color 0.2s ease;
 			-ms-transition: color 0.2s ease;
 			transition: color 0.2s ease;
@@ -3857,7 +3858,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #f08080;
 						}
 
 		}
